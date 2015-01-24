@@ -1,0 +1,6 @@
+D:\Source\DisplayingBitmaps\Application\build\intermediates\classes\debug
+D:\Source\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-9559c7e22c25bf722b8c5055608cdd14b2737113.jar
+D:\Source\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes-8a827a197dfc76c48190189cd479a200eaab7661.jar
+D:\Source\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes-1489d7e731d432ffb3d880fbe2ebd456f49d6b5e.jar
+D:\Source\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-847dcffe0f42b746c62ae2b29630de9a289b5004.jar
+D:\Source\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes-1ec23b256f0dedda2849d6eb4595430c5c18ee36.jar
